@@ -1,0 +1,8 @@
+# ignore .env in this particular directory
+# project1_mcq_generator/.env 
+
+# ignore all .env in this particular directory
+# project1_mcq_generator/*.env
+
+# ignore .env globally in the whole repository
+**/.env

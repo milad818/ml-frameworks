@@ -1,0 +1,5 @@
+Question No.,MCQ,Choices,Correct
+1,What is the main focus of deep learning?,a = Utilizing decision trees | b = Utilizing neural networks | c = Utilizing support vector machines | d = Utilizing k-means clustering,b
+2,Which of the following is not a common deep learning network architecture?,a = Convolutional neural networks | b = Decision trees | c = Recurrent neural networks | d = Generative adversarial networks,b
+3,What does the term 'deep' in 'deep learning' refer to?,a = Number of neurons in the network | b = Number of layers in the network | c = Learning rate of the network | d = Type of activation function used,b
+4,Why is feature engineering less prominent in deep learning compared to traditional machine learning?,a = Deep learning models do not require features | b = Deep learning models automatically discover useful feature representations | c = Feature engineering is faster in deep learning | d = Feature engineering is not allowed in deep learning,b

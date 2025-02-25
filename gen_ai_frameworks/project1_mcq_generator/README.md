@@ -16,4 +16,8 @@ An MCQ generator is a tool (often AI-powered) that automatically creates multipl
 - **Recruitment & Assessments:** Used in hiring tests.
 - **E-learning Platforms:** Auto-generate practice questions from study materials.
 
-After all, having had an introduction to the concept *MCQ Generator*, let's dive into the specifics of the project and walk through the project together.
+Below you can see a demostration of Final Project:
+
+![Blank Form](images/mcq-quiz-complete.jpg)
+
+After all, having had an introduction to the concept *MCQ Generator*, let's dive into the specifics of the project and walk through the project together. 

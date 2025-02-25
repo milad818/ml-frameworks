@@ -6,3 +6,5 @@
 
 # ignore .env globally in the whole repository
 **/.env
+project1_mcq_generator/logs
+logs

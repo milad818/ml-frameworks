@@ -28,7 +28,7 @@ Input Text: {text}
 Given the piece of text above, I would like to ask you to create a quiz of {number} mutiple-choice \
 questions for {area} participants. It is necessary that the questions are suitable for {level} level \
 and not repeated. It is also important that the response is as in JSON format below.
-### JSON RESPONSE
+Template for JSON RESPONSE:
 {response_json}
 """
 
